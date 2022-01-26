@@ -1,0 +1,150 @@
+id,name,business_line,business_group,business_unit,notes,avg_estimated_daily_revenues,avg_estimated_daily_direct_costs
+AS-third-party-supply,Third Party Supply,Performance Marketing,Adspree,Digital Media Agency,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-digital-marketing,Digital Marketing,Performance Marketing,Adspree,Digital Media Agency,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-tv-advertising,TV Advertising,Media Buying,Adspree,Digital Media Agency,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-influencer-marketing,Influencer Marketing,Influencer Marketing,Adspree,Influencer Marketing,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-portal-supply,Portal Supply,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,,
+AS-portal-performance,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-portal-other,Portal - Other,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,
+AS-portal-managed-display-ads,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,0.0
+AS-portal-revshare,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,0.0
+AS-portal-advertorial,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,0.0
+AS-portal-tv-revshare-mix,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,0.0
+AS-portal-automatic-ad-placements,Portal - Performance,Media Operations,Adspree,Digital Entertainment,Manual input is synchronized bi-weekly (a more frequent cycle is planned).,0.0,0.0
+RH-brand-placement,Product Placement,Marketing SaaS,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-agency-total,Agency,Influencer Marketing,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-agency,Agency,Influencer Marketing,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-marketplace-total,Marketplace,Influencer Marketing,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-brand-giveaway,Shout-Out,Marketing SaaS,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-influencer,Performance,Marketing SaaS,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",,
+RH-avocado-estimates,Avocado estimates,Merchandising,ReachHero,Influencer Marketing,"Revenues and costs are allocated based on the periods of service to match accounting numbers.
+Margin costs are estimates of the influencer fees.
+The data is extracted directly from its platform database.
+Refunds are not included yet. It will be implemented soon.",483.87,396.77
+MED-perfmkt-sureyield,sureyield,Performance Marketing,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",,
+AL-total-ef,Applift total,Performance Marketing,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",,
+AL-total,Applift total,Performance Marketing,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",,
+SY-mb-estimates,sureyield - Media Buying estimates,Media Agency,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",1047.47,0.0
+MED-dash,vene dash,Marketing SaaS,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",290.3225806451613,0.0
+SY-as-third-party-supply,Adspree,Performance Marketing,sureyield,Digital Media Agency,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",0.0,0.0
+MED-overwatch,vene overwatch,Marketing SaaS,sureyield,Digital Entertainment,"Includes ME Mobile.
+Only approved revenues are included. The current discount rate is set to 12%.
+Margin costs are publisher costs.",64.51612903225806,0.0
+MED-core-KW,D2C KW,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-PT,D2C PT,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-BH,D2C BH,Mobile Service,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-SE,D2C SE,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-NO,D2C NO,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-revshare,Mobile Services B2B,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-BR,D2C BR,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-UK,D2C UK,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-ES,D2C ES,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-SA,D2C SA,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-PL,D2C PL,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-FR,D2C FR,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-DE,D2C DE,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-CH,D2C CH,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-QA,D2C QA,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-DK,D2C DK,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-AE,D2C AE,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-ZA,D2C ZA,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-AT,D2C AT,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-IT,D2C IT,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-NL,D2C NL,Mobile Services,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",,
+MED-core-retail,MED - retail estimates,Mobile Service,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",548.3870967741935,0.0
+MED-pub-estimates,Publishing estimates,Content Publishing,ME Digital,Digital Entertainment,"Revenues are net i.e. they do not include VAT and carrier shares. This is aligned with the finance dashboard.
+Margin costs are publisher costs.",502.0,80.0
+MK-yt-MTFYVBpznXIwKFhVJuHKZA,YouTube CMS - Mediakraft Talents,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-l_JHPVyeSJNNAtw3mwn3rw,YouTube CMS - Hometown Networks,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-uCs74TCHKewfGvOQAJv2Tg,YouTube CMS - Magnolia Netz,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-YO9H9-o4YqlpjXtmY4dUZA,YouTube CMS - Mediakraft DE Originals,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-SJBEXkK7NN253Bg0fFL5BA,"YouTube CMS - Mediakraft (ComedyNet	)",Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-wJgF9XHhfSMfgy0fU2fXhQ,YouTube CMS - Magnolie.TV,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-5pqBI7x7Pw5PO4lSnVZgxg,YouTube CMS - PLEXUS,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-influencer-estimate,MK - Influencer marketing estimate ,Influencer Marketing,Mediakraft,Influencer Marketing,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-VQPIUA2IJfOHZuiEiRwpiQ,YouTube - Avsar Film,Content Publishing,Mediakraft,Digital Entertainment,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt--T6YRWhYberPdRbf3Z5rbQ,YouTube - Mediakraft.TV,Content Publishing,Mediakraft,Digital Entertainment,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-DIYrC9g4HIz_T7EJuEZ7YA,YouTube - Mediakraft Turkiye - Originals,Content Publishing,Mediakraft,Digital Entertainment,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-yt-FQX78HL5L6oCjJd3ejmFYw,YouTube - Mediakraft.TV VIP,Content Publishing,Mediakraft,Digital Entertainment,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",,
+MK-facebook-1,MK - Unnamed Facebook channel,Content Publishing,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",1774.194,1596.774
+MK-vrk,MK - Versicherer im Raum der Kirchen Lebensversicherung AG,Agency Production,Mediakraft,Digital Media Agency,"There is a 48 hour lag in the YouTube reporting due to vendor’s limitations.
+Margin costs are the content partner shares. It is an average based on previous months, their accuracy is still under scrutiny. 
+Some minor sources are still missing, these will be implemented soon.",580.6452,419.3548

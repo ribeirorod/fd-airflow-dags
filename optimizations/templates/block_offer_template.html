@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>AppLift</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <style type="text/css">        @media (max-width: 611px) {
+        .logo {
+            width: 80px;
+        }
+
+        .title-cont {
+            padding: 16px 10px 10px 10px !important;
+        }
+
+        .title__logo {
+            width: 50px !important;
+        }
+
+        .title {
+            margin-left: 10px !important;
+        }
+
+        .info-cont {
+            padding-left: 15px !important;
+            padding-right: 15px !important;
+        }
+
+        .note {
+            padding: 10px 10px 10px 10px !important;
+        }
+    }
+
+    .note:empty {
+        display: none;
+    }    </style>
+</head>
+<body style="background-color: #f6fafc; margin: 0; font-family: sans-serif;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%"
+       style="width: 100%; max-width:100%; min-width:100%; background-color: #1b1b1a;">
+    <tr>
+        <td style="text-align: center; padding: 13px 10px 13px 10px; width: 100%;"><a href="https://www.applift.com/"
+                                                                                      target="_blank"
+                                                                                      style="outline: none; text-decoration: none; border: none">
+            <img class="logo" style="width: 130px; border: none;" alt=""
+                 src="https://cdn2.applift.com/img/applift-logo.png"/>
+        </a></td>
+    </tr>
+</table>
+<!--[if mso]>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"
+       style="background-color: #f6fafc; font-family: sans-serif; padding-top: 30px;">
+    <center>
+        <tr>
+            <td><![endif]-->
+<table style="width: 640px; margin: 30px auto 0 auto; border-collapse: collapse;">
+    <tr>
+        <td style="background-color: #ad2a82; background-image: linear-gradient(82deg, #3b67a8, #d50f74 53%, #ff5100); border-radius: 2px; padding: 16px 20px 16px 20px;"
+            class="title-cont">
+            <table style="width: 100%; border-collapse: collapse;">
+                <tr>
+                    <td style="padding: 0 0 0 10px; width: 54px;" class="title__logo"><img alt=" " width="54"
+                                                                                           style="width: 54px;"
+                                                                                           class="title__logo"
+                                                                                           src="https://cdn2.applift.com/img/speaker-new.png"/>
+                    </td>
+                    <td style="color: #ffffff; padding: 0 0 0 20px; vertical-align: middle;" class="title"><p
+                            style="font-size: 22px; margin: 0 0 5px 0; font-weight: 600;">Hello!</p>
+                        <p style="font-size: 18px; margin: 0 0 0 0; font-weight: 300;">Please pause the following
+                            offer(s).</p></td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table><!-- MAIN CONTENT -->
+<table style="width: 640px; margin: 0 auto; background-color: #ffffff; box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1); border-radius: 2px; border-collapse: collapse;">
+    {% for row in rows %}
+    <tr>
+        <td style="padding: 0 30px 0 30px;" class="info-cont">
+            <table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
+                <tr>
+                    <td style='padding: 18px 0 0 0; font-size: 16px; font-weight: 600; line-height: 1.5; color: #1b1b1a; word-wrap: break-word;'
+                        colspan='3'> {{ row.offer_name }}
+                    </td>
+                </tr>
+                <tr>
+                    <td style='padding: 7px 20px 15px 0; color: #6a757a; font-size: 14px; white-space: nowrap;'><span
+                            style='font-weight: 600;'>Offer ID:</span> {{ row.offer_id }}
+                    </td>
+                    <td style='padding: 7px 20px 15px 0; color: #6a757a; font-size: 14px; white-space: nowrap;'><span
+                            style='font-weight: 600;'>Reasons:</span> {{ row.reason }}
+                    </td>
+                </tr>
+            </table>
+            <hr style="height: 1px; border: 0; margin: 0; background-color: #e1e1e1;">
+        </td>
+    </tr>
+    {% endfor %}
+    <tr>
+        <td style="padding: 10px 30px 15px 30px;" class="info-cont"><p
+                style="margin: 0; font-size: 14px; font-weight: 600; color: #1b1b1a;">Change Schedule</p>
+            <p style="margin: 0; font-size: 14px; color: #767e81; padding: 10px 0 5px 0;"> Please pause all activities
+                on the offer by <span style="font-weight: 600;">{{ deadline }}</span>. </p></td>
+    </tr>
+    <tr>
+        <td style="padding: 20px 30px 14px 30px" class="note">
+            <table style="width: 100%; border-collapse: collapse">
+                <tr>
+                    <td style="background-color: #f6fafc; color: #767e81; padding: 10px 20px 10px 20px; border-left: solid 3px #1b1b1a; font-size: 14px; font-weight: 400;">
+                        Contact your Account Manager for any queries.
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 0 30px 20px 30px; font-size: 14px; line-height: 1.29; color: #767e81" class="info-cont"><p
+                style="margin: 0;">Kind Regards,</p>
+            <p style="margin: 0;">Applift</p></td>
+    </tr>
+</table><!-- END MAIN --><!-- RECOMMENDATIONS CONTENT --><!-- END RECOMMENDATIONS --><!-- FOOTER CONTENT -->
+<table style="width: 640px; margin: 0 auto; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 20px 30px 0 30px; text-align: center; color: #767e81; font-size: 14px;" class="info-cont"><p
+                style="font-size: 16px; font-weight: 600; margin: 0 0 7px 0;">Contact Us</p>            <a
+                href="https://www.applift.com/" target="_blank" style="text-decoration: none; color: #767e81;">www.applift.com</a>
+            <p style="margin: 7px 0 7px 0;">To unsubscribe from this list, contact your Applift Account Manager.</p>
+            <p style="margin: 0 0 10px 0;">Copyright © 2021 Applift GmbH, All rights reserved.</p></td>
+    </tr>
+    <tr>
+        <td style="padding: 5px 30px 50px 30px; text-align: center">            <!--[if mso]>
+            <center>            <![endif]-->
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; margin: 0 auto;">
+                <tr>
+                    <td style="padding: 0 25px 0 0;"><a href="https://twitter.com/applift" target="_blank"
+                                                        style="text-decoration: none; outline: none;"> <img width="16"
+                                                                                                            style="width: 16px; border: none;"
+                                                                                                            alt=""
+                                                                                                            src="https://cdn2.applift.com/img/twitter.png"/>
+                    </a></td>
+                    <td style="padding: 0 25px 0 0;"><a href="https://www.facebook.com/applift" target="_blank"
+                                                        style="text-decoration: none; outline: none;"> <img width="9"
+                                                                                                            style="width: 9px; border: none;"
+                                                                                                            alt=""
+                                                                                                            src="https://cdn2.applift.com/img/facebook.png"/>
+                    </a></td>
+                    <td style="padding: 0 25px 0 0;"><a href="https://www.linkedin.com/company/applift/" target="_blank"
+                                                        style="text-decoration: none; outline: none;"> <img width="16"
+                                                                                                            style="width: 16px; border: none;"
+                                                                                                            alt=""
+                                                                                                            src="https://cdn2.applift.com/img/linked-in.png"/>
+                    </a></td>
+                    <td><a href="https://www.instagram.com/applift/" target="_blank"
+                           style="text-decoration: none; outline: none;"> <img width="14"
+                                                                               style="width: 14px; border: none;" alt=""
+                                                                               src="https://cdn2.applift.com/img/instagram.png"/>
+                    </a></td>
+                </tr>
+            </table>
+            <!--[if mso]>            </center>            <![endif]-->        </td>
+    </tr>
+</table>
+<!--[if mso]></td></tr></center></table><![endif]--></body>
+</html>
